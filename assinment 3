@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>College Timetable</title>
+</head>
+<body>
+
+  <table border="1" align="center" cellpadding="8" cellspacing="0">
+    <caption><b>College Timetable</b></caption>
+    <tr>
+      <th>Day / Time</th>
+      <th>08:50 - 09:40</th>
+      <th>09:40 - 10:30</th>
+      <th>10:40 - 11:30</th>
+      <th>11:30 - 12:20</th>
+      <th>12:20 - 01:10</th>
+      <th>01:10 - 02:00</th>
+      <th>02:00 - 02:50</th>
+      <th>02:50 - 03:40</th>
+      <th>03:40 - 04:30</th>
+    </tr> 
+
+    <tr>
+      <th>Monday</th>
+      <td colspan="2" align="center">Digital Mnufacturing Lab</td>
+      <td align="center">Mathematiccs</td>
+      <td align="center">BMAE</td>
+      <td rowspan="5" align="center">Lunch</td>
+      <td align="center">C++</td>
+      <td align="center">Mathematics</td>
+      <td align="center">Electronics</td>
+      <td align="center">Soft Skills</td>
+    </tr>
+
+    <tr>
+      <th>Tuesday</th>
+      <td colspan="2" align="center">Web Desgining Workshop I</td>
+      <td align="center">C++</td>
+      <td rowspan="2" align="center">Mathematics</td>
+      <td align="center">Electronics</td>
+      <td align="center">Desgin Thinking</td>
+      <td align="center">Mathematics</td>
+      <td align="center">BMAE</td>
+    </tr>
+
+    <tr>
+      <th>Wednesday</th>
+      <td align="center">C++</td>
+      <td align="center">Electronics</td>
+      <td align="center">BMAE</td>
+      <td colspan="2" align="center">Professional Communication Lab</td>
+      <td align="center">Mentor-Mentee</td>
+    </tr>
+
+    <tr>
+      <th>Thursday</th>
+      <td align="center">BMAE</td>
+      <td align="center">Desgin Thinking</td>
+      <td align="center">Electronics</td>
+      <td align="center">C++</td>
+      <td colspan="2" align="center">Electronics Lab</td>
+      <td align="center">Mathematics</td>
+      <td align="center">Soft Skills</td>
+    </tr>
+
+    <tr>
+      <th>Friday</th>
+      <td align="center">Web Desgining</td>
+      <td align="center">Soft Skills</td>
+      <td align="center">Mathematics</td>
+      <td align="center">Electronics</td>
+      <td colspan="2">
+        <table border="1" cellpadding="5" cellspacing="0">
+          <tr><th>C++ Lab</th></tr>
+          <tr><td>Group - 1, KCLG-8</td></tr>
+          <tr><td>Group - 2, KCLG-9</td></tr>
+        </table></td>
+      <td align="center">BMAE</td>
+      <td align="center">Desgin Thinking</td>
+    </tr>
+
+  </table>
+
+<p align="center">Name and sec- yuvraj singh cse 15 </p>
+<p align="center">Add No: 2026B01010794</p>
+
+
+</body>
+</html>
