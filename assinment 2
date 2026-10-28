@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Simple News Website</title>
+</head>
+<body>
+
+<!-- Header -->
+<h1 align="center">Global Daily News</h1>
+<p align="center">Your Trusted Source for Latest Updates</p>
+<hr>
+
+<!-- Navigation -->
+<p align="center">
+<a href="#world">World</a> | 
+<a href="#sports">Sports</a> | 
+<a href="#entertainment">Entertainment</a> | 
+<a href="#podcast">Podcast</a> | 
+<a href="#contact">Contact</a>
+</p>
+<hr>
+
+<!-- World News Section -->
+<h2 id="world">World News</h2>
+<p>Today's top headline: Two mass shootings in South Africa leave 27 dead</p>
+<img src="https://ichef.bbci.co.uk/news/1536/cpsprodpb/ccd0/live/83714c70-ba4b-11f1-952f-c5888b744c34.jpg.webp" alt="World News" width="560" height="315">
+<p><a href="https://www.bbc.com/news/articles/ck5ywnp075d1o" target="_blank">Read more on BBC</a></p>
+<hr>
+
+<!-- Sports News Section -->
+<h2 id="sports">Sports Update</h2>
+<p>
+Man City Found Guilty: Club may be expelled from Premier League for financial cheating | BBC News </p>
+
+<!-- Embedded YouTube Video -->
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/m_l52IF6H0Q?si=SvwOHsI0UDb4Uu_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><hr>
+
+<!-- Entertainment Section -->
+<h2 id="entertainment">Entertainment Buzz</h2>
+<p>New species of apes judst  found in MP, India</p>
+
+<!-- Local Video -->
+<video width="144" height="320" controls>
+<source src="C:\Users\yuvia\Documents\WhatsApp Video 2026-09-28 at 2.46.22 AM.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+<hr>
+
+<!-- Podcast Section -->
+<h2 id="podcast">News Podcast</h2>
+<p>Listen to today's top headlines:</p>
+<audio controls>
+<source src="D:\Downloads\news.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+<hr>
+
+<!-- Footer -->
+<h3 id="contact">Contact Us</h3>
+<p>Email: yuviatvaranasi@gmail.com</p>
+<p>&copy; 2025 Global Daily News</p>
+
+<p align="center">Name and sec- yuvraj singh cse 15 </p>
+<p align="center">Add No: 2026B01010794</p>
+
+</body>
+</html>
