@@ -1,1 +1,150 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+<title>Course Curriculum</title>
+</head>
+
+<body>
+
+<!-- Heading -->
+
+<h1 align="center">B.Tech Course Curriculum</h1>
+
+<p align="center">
+<b>Computer Science and Engineering</b>
+</p>
+
+<hr>
+
+<!-- Introduction -->
+
+<h2>Introduction</h2>
+
+<p>
+Welcome to the <b>Course Curriculum</b>. This page contains the
+<i>Semester 1 subjects</i> and different course modules.
+Students will learn <u>technical and professional skills</u>
+during the semester.
+</p>
+
+
+<!-- Ordered List -->
+
+<h2>Semester 1 Subjects</h2>
+
+<ol>
+<li>Basics of Mechanical &amp; Automation Engg.</li>
+<li>Basics of Electronics Engg.</li>
+<li>Fundamentals of Linear Algebra and Statistics</li>
+<li>Programming in C++</li>
+<li>Soft Skills</li>
+<li>Design Thinking</li>
+</ol>
+
+<!-- Unordered List -->
+
+<h2>Important Skills</h2>
+
+<ul>
+<li>Programming</li>
+<li>Problem Solving</li>
+<li>Communication</li>
+<li>Logical Thinking</li>
+<li>Teamwork</li>
+</ul>
+
+<!-- Description List -->
+
+<h2>Course Description</h2>
+
+<dl>
+
+<dt><b>Programming in C++</b></dt>
+<dd>Learn the basics of programming using C++.</dd>
+
+<dt><b>Linear Algebra and Statistics</b></dt>
+<dd>Learn mathematical concepts used in engineering.</dd>
+
+<dt><b>Soft Skills</b></dt>
+<dd>Improve communication and interpersonal skills.</dd>
+
+<dt><b>Design Thinking</b></dt>
+<dd>Learn creative methods for solving problems.</dd>
+
+</dl>
+
+<!-- Nested List -->
+
+<h2>Course Modules</h2>
+
+<ol>
+
+<li>
+Technical Subjects
+
+<ul>
+<li>Programming in C++</li>
+<li>Electronics Engineering</li>
+<li>Mechanical and Automation Engineering</li>
+</ul>
+
+</li>
+
+<li>
+Mathematical Subjects
+
+<ul>
+<li>Linear Algebra</li>
+<li>Statistics</li>
+</ul>
+
+</li>
+
+</ol>
+
+<!-- Mixed List -->
+
+<h2>Learning Activities</h2>
+
+<ul>
+
+<li>
+Programming
+
+<ol>
+<li>C++ Basics</li>
+<li>Variables and Data Types</li>
+<li>Operators</li>
+<li>Control Statements</li>
+</ol>
+
+</li>
+
+<li>
+Professional Skills
+
+<ol type="A">
+<li>Communication Skills</li>
+<li>Teamwork</li>
+<li>Presentation Skills</li>
+</ol>
+
+</li>
+
+</ul>
+
+<!-- Footer -->
+
+<hr>
+
+<p align="center">
+&copy; 2026 Computer Science and Engineering Department
+</p>
+
+<p align="center">Name and sec- yuvraj singh cse 15 </p>
+<p align="center">Add No: 2026B01010794</p>
+
+</body>
+
+</html>
