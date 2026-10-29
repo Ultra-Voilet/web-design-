@@ -1,0 +1,64 @@
+<DOCTYPE html!>
+<html>
+<head>
+  <title>College Timetable</title>
+</head>
+<body>
+ <table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th align="center">DAY/TIME</th>
+    <th align="center">09am-10am</th>
+    <th align="center">10am-11am</th>
+    <th align="center">11am-12pm</th>
+    <th align="center">12pm-01pm</th>
+    <th align="center">02pm-03pm</th>
+  </tr>
+
+  <tr>
+    <th align="center">Monday</th>
+    <td align="center">DBMS</td>
+    <td align="center" colspan="2">Lunch Break</td>
+    <td align="center">Data Structure</td>
+    <td align="center">OS</td>
+  </tr>
+
+  <tr>
+    <th align="center">Tuesday</th>
+    <td align="center" colspan="2" rowspan="2">Web Technology</td>
+    <td align="center">Lunch Break</td>
+    <td align="center">OS</td>
+    <td align="center">DBMS</td>
+  </tr>
+
+  <tr>
+    <th align="center">Wednesday</th>
+    <td align="center" colspan="2">Lunch Break</td>
+    <td align="center">OS</td>
+  </tr>
+
+  <tr>
+    <th align="center">Thursday</th>
+    <td align="center">DBMS</td>
+    <td align="center">Lunch Break</td>
+    <td align="center" colspan="2" rowspan="2">
+        <table border="1" cellpadding="8" cellspacing="0">
+            <tr><th colspan="2">OS</th></tr>
+            <tr><td>Group-1 KCLG-08</td><td>Group-2 KCLG-09</td></tr>
+        </table>
+    </td>
+    <td>Data Structure</td>
+  </tr>
+
+  <tr>
+    <th align="center">Friday</th>
+    <td align="center" colspan="2">OS</td>
+    <td align="center">Lunch Break</td>
+  </tr>
+
+ </table>
+</body>
+</html>
+
+ </table>
+</body>
+</html>
